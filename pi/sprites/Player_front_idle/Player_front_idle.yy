@@ -36,8 +36,8 @@
   "nineSlice":null,
   "origin":9,
   "parent":{
-    "name":"Scripts",
-    "path":"folders/Scripts.yy",
+    "name":"Player",
+    "path":"folders/Scripts/Player.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

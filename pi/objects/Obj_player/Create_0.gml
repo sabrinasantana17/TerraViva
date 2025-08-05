@@ -12,4 +12,4 @@ velh = 0;
 velv = 0;
 
 //Velocidade do jogador
-vel = 4;
+vel = 1;
