@@ -1,1 +1,4 @@
-instance_destroy(other)
+
+
+
+ecopontuacao += 5 

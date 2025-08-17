@@ -5,7 +5,14 @@ right = keyboard_check(vk_right);
 left = keyboard_check(vk_left);
 
 //aplicando os inputs a velocidade
-velv =(down - up) * vel;
 
-//fazendo a velocidade horizontal
-velh = (right - left) * vel;
+
+//ajustando a direção com base na direção que ele tá indo
+
+
+//Rodando a minha máquina de estados 
+roda_estado();
+
+if ecopontuacao = 1000{
+room_goto_next()
+}

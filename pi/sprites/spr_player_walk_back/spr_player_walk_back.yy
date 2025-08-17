@@ -31,7 +31,7 @@
   "origin":9,
   "parent":{
     "name":"walk",
-    "path":"folders/Scripts/Player/walk.yy",
+    "path":"folders/Sprites/Player/walk.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
