@@ -1,5 +1,6 @@
 {
   "FolderOrderSettings":[
+<<<<<<< HEAD
     {"name":"Anotações","order":12,"path":"folders/Anotações.yy",},
     {"name":"Caminhos","order":3,"path":"folders/Caminhos.yy",},
     {"name":"Cenas","order":9,"path":"folders/Cenas.yy",},
@@ -34,5 +35,18 @@
     {"name":"SpriteFogo","order":1,"path":"sprites/SpriteFogo/SpriteFogo.yy",},
     {"name":"SpriteFogoBonito","order":3,"path":"sprites/SpriteFogoBonito/SpriteFogoBonito.yy",},
     {"name":"Spritefogopp","order":2,"path":"sprites/Spritefogopp/Spritefogopp.yy",},
+=======
+    {"name":"Cenas","order":10,"path":"folders/Cenas.yy",},
+    {"name":"Conjuntos de tiles","order":2,"path":"folders/Conjuntos de tiles.yy",},
+    {"name":"Curvas da animação","order":12,"path":"folders/Curvas da animação.yy",},
+    {"name":"Extensões","order":14,"path":"folders/Extensões.yy",},
+    {"name":"Fontes","order":7,"path":"folders/Fontes.yy",},
+    {"name":"Linhas do tempo","order":8,"path":"folders/Linhas do tempo.yy",},
+    {"name":"Objetos","order":9,"path":"folders/Objetos.yy",},
+    {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
+    {"name":"Scripts","order":5,"path":"folders/Scripts.yy",},
+    {"name":"Sons","order":3,"path":"folders/Sons.yy",},
+    {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
+>>>>>>> 43fd4c56ed86ff5bb62f811131ad85f61b3f8546
   ],
 }
