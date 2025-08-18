@@ -1,4 +1,11 @@
 {
-  "FolderOrderSettings":[],
+  "FolderOrderSettings":[
+    {"name":"Fase 2 - Ellis","order":1,"path":"folders/Fase 2 - Ellis.yy",},
+    {"name":"Cenas","order":3,"path":"folders/Fase 2 - Ellis/Cenas.yy",},
+    {"name":"Conjunto de tiles","order":2,"path":"folders/Fase 2 - Ellis/Conjunto de tiles.yy",},
+    {"name":"Fontes","order":5,"path":"folders/Fase 2 - Ellis/Fontes.yy",},
+    {"name":"Objetos","order":4,"path":"folders/Fase 2 - Ellis/Objetos.yy",},
+    {"name":"Sprites","order":1,"path":"folders/Fase 2 - Ellis/Sprites.yy",},
+  ],
   "ResourceOrderSettings":[],
 }
