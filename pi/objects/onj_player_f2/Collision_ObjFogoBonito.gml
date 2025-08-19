@@ -1,4 +1,0 @@
-
-
-
-ecopontuacao += 5 
