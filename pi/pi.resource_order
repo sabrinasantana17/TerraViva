@@ -1,11 +1,20 @@
 {
   "FolderOrderSettings":[
+    {"name":"Cenas","order":7,"path":"folders/Fase 4 - Sabrina/Cenas.yy",},
+    {"name":"Conjuntos de tiles","order":6,"path":"folders/Fase 4 - Sabrina/Conjuntos de tiles.yy",},
     {"name":"Fase 2 - Ellis","order":1,"path":"folders/Fase 2 - Ellis.yy",},
     {"name":"Cenas","order":3,"path":"folders/Fase 2 - Ellis/Cenas.yy",},
     {"name":"Conjunto de tiles","order":2,"path":"folders/Fase 2 - Ellis/Conjunto de tiles.yy",},
     {"name":"Fontes","order":5,"path":"folders/Fase 2 - Ellis/Fontes.yy",},
     {"name":"Objetos","order":4,"path":"folders/Fase 2 - Ellis/Objetos.yy",},
     {"name":"Sprites","order":1,"path":"folders/Fase 2 - Ellis/Sprites.yy",},
+    {"name":"Fase 4 - Sabrina","order":2,"path":"folders/Fase 4 - Sabrina.yy",},
+    {"name":"Objetos","order":1,"path":"folders/Fase 4 - Sabrina/Objetos.yy",},
+    {"name":"Particle Systems","order":2,"path":"folders/Fase 4 - Sabrina/Particle Systems.yy",},
+    {"name":"Scripts","order":3,"path":"folders/Fase 4 - Sabrina/Scripts.yy",},
+    {"name":"Sprites","order":4,"path":"folders/Fase 4 - Sabrina/Sprites.yy",},
   ],
-  "ResourceOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"Object2","order":5,"path":"objects/Object2/Object2.yy",},
+  ],
 }

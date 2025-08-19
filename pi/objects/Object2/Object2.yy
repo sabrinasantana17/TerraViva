@@ -6,8 +6,8 @@
   "name":"Object2",
   "overriddenProperties":[],
   "parent":{
-    "name":"pi",
-    "path":"pi.yyp",
+    "name":"Fase 4 - Sabrina",
+    "path":"folders/Fase 4 - Sabrina.yy",
   },
   "parentObjectId":null,
   "persistent":false,

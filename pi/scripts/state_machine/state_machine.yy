@@ -6,7 +6,7 @@
   "name":"state_machine",
   "parent":{
     "name":"Scripts",
-    "path":"folders/Scripts.yy",
+    "path":"folders/Fase 4 - Sabrina/Scripts.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

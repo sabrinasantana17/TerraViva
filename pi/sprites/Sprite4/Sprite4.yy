@@ -26,7 +26,7 @@
   "origin":0,
   "parent":{
     "name":"Tiles",
-    "path":"folders/Sprites/Tiles.yy",
+    "path":"folders/Fase 4 - Sabrina/Sprites/Tiles.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

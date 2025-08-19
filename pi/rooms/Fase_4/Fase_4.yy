@@ -153,7 +153,7 @@
   "name":"Fase_4",
   "parent":{
     "name":"Cenas",
-    "path":"folders/Cenas.yy",
+    "path":"folders/Fase 4 - Sabrina/Cenas.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

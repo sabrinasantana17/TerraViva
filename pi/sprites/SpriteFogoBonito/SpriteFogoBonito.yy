@@ -39,7 +39,7 @@
   "origin":9,
   "parent":{
     "name":"Level",
-    "path":"folders/Sprites/Level.yy",
+    "path":"folders/Fase 4 - Sabrina/Sprites/Level.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

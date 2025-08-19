@@ -37,7 +37,7 @@
   "origin":9,
   "parent":{
     "name":"Idle",
-    "path":"folders/Sprites/Player/Idle.yy",
+    "path":"folders/Fase 4 - Sabrina/Sprites/Player/Idle.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
