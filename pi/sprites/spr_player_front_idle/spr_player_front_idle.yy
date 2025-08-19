@@ -55,8 +55,8 @@
   },
   "origin":9,
   "parent":{
-    "name":"Sprites",
-    "path":"folders/Fase 2 - Ellis/Sprites.yy",
+    "name":"Player",
+    "path":"folders/Fase 2 - Ellis/Sprites/Player.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
