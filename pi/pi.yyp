@@ -46,6 +46,7 @@
   },
   "name":"pi",
   "resources":[
+    {"id":{"name":"obj_chamine","path":"objects/obj_chamine/obj_chamine.yy",},},
     {"id":{"name":"obj_controle","path":"objects/obj_controle/obj_controle.yy",},},
     {"id":{"name":"obj_filtro_de_ar","path":"objects/obj_filtro_de_ar/obj_filtro_de_ar.yy",},},
     {"id":{"name":"obj_player_f2","path":"objects/obj_player_f2/obj_player_f2.yy",},},
@@ -60,6 +61,7 @@
     {"id":{"name":"Fase2","path":"rooms/Fase2/Fase2.yy",},},
     {"id":{"name":"state_machine","path":"scripts/state_machine/state_machine.yy",},},
     {"id":{"name":"colisor","path":"sprites/colisor/colisor.yy",},},
+    {"id":{"name":"spr_chamine","path":"sprites/spr_chamine/spr_chamine.yy",},},
     {"id":{"name":"spr_filtro_de_ar","path":"sprites/spr_filtro_de_ar/spr_filtro_de_ar.yy",},},
     {"id":{"name":"spr_player_front_idle","path":"sprites/spr_player_front_idle/spr_player_front_idle.yy",},},
     {"id":{"name":"spr_player_idle_back","path":"sprites/spr_player_idle_back/spr_player_idle_back.yy",},},
@@ -71,6 +73,7 @@
     {"id":{"name":"spr_purificador","path":"sprites/spr_purificador/spr_purificador.yy",},},
     {"id":{"name":"spr_tilechao","path":"sprites/spr_tilechao/spr_tilechao.yy",},},
     {"id":{"name":"spr_tileset","path":"sprites/spr_tileset/spr_tileset.yy",},},
+    {"id":{"name":"Sprite19","path":"sprites/Sprite19/Sprite19.yy",},},
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
     {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},},
     {"id":{"name":"SpriteFogo","path":"sprites/SpriteFogo/SpriteFogo.yy",},},

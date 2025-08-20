@@ -18,13 +18,16 @@
     {"name":"Sprites","order":4,"path":"folders/Fase 4 - Sabrina/Sprites.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"obj_chamine","order":5,"path":"objects/obj_chamine/obj_chamine.yy",},
     {"name":"obj_controle","order":4,"path":"objects/obj_controle/obj_controle.yy",},
     {"name":"obj_filtro_de_ar","order":2,"path":"objects/obj_filtro_de_ar/obj_filtro_de_ar.yy",},
     {"name":"obj_player_f2","order":1,"path":"objects/obj_player_f2/obj_player_f2.yy",},
     {"name":"obj_purificador","order":3,"path":"objects/obj_purificador/obj_purificador.yy",},
     {"name":"Object2","order":5,"path":"objects/Object2/Object2.yy",},
+    {"name":"spr_chamine","order":4,"path":"sprites/spr_chamine/spr_chamine.yy",},
     {"name":"spr_purificador","order":1,"path":"sprites/spr_purificador/spr_purificador.yy",},
     {"name":"spr_tilechao","order":1,"path":"sprites/spr_tilechao/spr_tilechao.yy",},
+    {"name":"Sprite19","order":5,"path":"sprites/Sprite19/Sprite19.yy",},
     {"name":"tl_chao","order":1,"path":"tilesets/tl_chao/tl_chao.yy",},
   ],
 }
