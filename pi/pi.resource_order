@@ -20,7 +20,7 @@
     {"name":"obj_botao_on","order":6,"path":"objects/obj_botao_on/obj_botao_on.yy",},
     {"name":"obj_chamine_ativada","order":5,"path":"objects/obj_chamine_ativada/obj_chamine_ativada.yy",},
     {"name":"obj_controle","order":4,"path":"objects/obj_controle/obj_controle.yy",},
-    {"name":"obj_filtro_de_ar","order":2,"path":"objects/obj_filtro_de_ar/obj_filtro_de_ar.yy",},
+    {"name":"obj_filtro_ar","order":2,"path":"objects/obj_filtro_ar/obj_filtro_ar.yy",},
     {"name":"obj_player_f2","order":1,"path":"objects/obj_player_f2/obj_player_f2.yy",},
     {"name":"obj_purificador","order":3,"path":"objects/obj_purificador/obj_purificador.yy",},
     {"name":"Object2","order":5,"path":"objects/Object2/Object2.yy",},

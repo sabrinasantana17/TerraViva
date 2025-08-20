@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_filtro_de_ar",
+  "%Name":"obj_filtro_ar",
   "eventList":[],
   "managed":true,
-  "name":"obj_filtro_de_ar",
+  "name":"obj_filtro_ar",
   "overriddenProperties":[],
   "parent":{
     "name":"Objetos",

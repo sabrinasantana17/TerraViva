@@ -49,7 +49,7 @@
     {"id":{"name":"obj_botao_on","path":"objects/obj_botao_on/obj_botao_on.yy",},},
     {"id":{"name":"obj_chamine_ativada","path":"objects/obj_chamine_ativada/obj_chamine_ativada.yy",},},
     {"id":{"name":"obj_controle","path":"objects/obj_controle/obj_controle.yy",},},
-    {"id":{"name":"obj_filtro_de_ar","path":"objects/obj_filtro_de_ar/obj_filtro_de_ar.yy",},},
+    {"id":{"name":"obj_filtro_ar","path":"objects/obj_filtro_ar/obj_filtro_ar.yy",},},
     {"id":{"name":"obj_player_f2","path":"objects/obj_player_f2/obj_player_f2.yy",},},
     {"id":{"name":"Obj_player","path":"objects/Obj_player/Obj_player.yy",},},
     {"id":{"name":"obj_purificador","path":"objects/obj_purificador/obj_purificador.yy",},},
