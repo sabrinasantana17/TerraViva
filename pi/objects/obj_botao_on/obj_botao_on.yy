@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_chamine",
+  "%Name":"obj_botao_on",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":1,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_player_f2","path":"objects/obj_player_f2/obj_player_f2.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_chamine",
+  "name":"obj_botao_on",
   "overriddenProperties":[],
   "parent":{
     "name":"Objetos",
@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_chamine",
-    "path":"sprites/spr_chamine/spr_chamine.yy",
+    "name":"spr_botao_on",
+    "path":"sprites/spr_botao_on/spr_botao_on.yy",
   },
   "spriteMaskId":null,
   "visible":true,

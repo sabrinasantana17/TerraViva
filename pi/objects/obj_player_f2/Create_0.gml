@@ -105,3 +105,5 @@ inicia_estado(estado_idle);
 
 //variável para passar de fase
 ecopontuacao = 0
+
+
