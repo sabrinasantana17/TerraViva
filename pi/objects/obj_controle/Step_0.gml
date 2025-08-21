@@ -1,9 +1,9 @@
 // Supondo que você tem 4 purificadores
-if (global.purificadores_criados == 5 && !instance_exists(obj_bau_mudas))
+if (global.purificadores_criados == 4 && !instance_exists(obj_bau_mudas))
 {
     // ***** AJUSTE AQUI A COORDENADA DO BAÚ *****
-    var _x_bau = 500; // Coordenada X onde o baú aparecerá
-    var _y_bau = 500; // Coordenada Y onde o baú aparecerá
+    var _x_bau = 640; // Coordenada X onde o baú aparecerá
+    var _y_bau = 192; // Coordenada Y onde o baú aparecerá
 
     instance_create_layer(_x_bau, _y_bau, "Instances", obj_bau_mudas);
     show_debug_message("Baú de mudas criado!");

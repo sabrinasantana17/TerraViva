@@ -4,7 +4,7 @@ show_debug_message("Game Controller criado. Filtros coletados: " + string(global
 
 
 
-global.chamines_desativadas_total = 0; // Você já tem 'global.ecopontuacao', mas este é mais específico
+global.chamines_desativadas_total = 0; 
 global.finalizar_fase_flora = false; // Definido como true quando o baú liberar as mudas
 
 
@@ -12,4 +12,5 @@ global.finalizar_fase_flora = false; // Definido como true quando o baú liberar
 // O nome da camada deve ser o que você criou no passo 1.
 // No obj_controle Create Event
 // No obj_controle Create Event
-global.chamines_desativadas_total = 0; // Certifique-se que este contador está sendo atualizado!
+global.chamines_desativadas_total = 0; 
+global.finalizar_fase_flora = false;

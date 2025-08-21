@@ -16,7 +16,7 @@ else if (mensagem_exibida && !mudas_liberadas)
 
     mudas_liberadas = true; // Marca que as mudas foram liberadas por este baú
 
-    // --- MUDANÇA AQUI ---
+    // --- MUDANÇA AQUI --- 
     // Opção 1: Destruir o baú
     instance_destroy(); // O baú desaparece depois de cumprir seu trabalho.
     show_debug_message("Mudas liberadas nos pontos de plantio! Baú destruído.");
