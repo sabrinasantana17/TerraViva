@@ -16,6 +16,7 @@
     {"name":"Particle Systems","order":2,"path":"folders/Fase 4 - Sabrina/Particle Systems.yy",},
     {"name":"Scripts","order":3,"path":"folders/Fase 4 - Sabrina/Scripts.yy",},
     {"name":"Sprites","order":4,"path":"folders/Fase 4 - Sabrina/Sprites.yy",},
+    {"name":"grupo1","order":3,"path":"folders/grupo1.yy",},
   ],
   "ResourceOrderSettings":[
     {"name":"obj_agua","order":1,"path":"objects/obj_agua/obj_agua.yy",},
