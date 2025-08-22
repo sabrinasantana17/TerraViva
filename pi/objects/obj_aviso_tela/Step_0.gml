@@ -21,13 +21,13 @@ if (mouse_check_button_pressed(mb_left) || keyboard_check_pressed(vk_space))
         // 1. Libera as mudas nos pontos de plantio
         // (AQUI VOCÊ DEFINE AS COORDENADAS EXATAS DAS MUDAS)
         var pontos_de_plantio = [
-            [256, 64], // Ponto 1: x=100, y=200
-			 [160, 416], // Ponto 2: x=350, y=450
-			  [416, 256],
-				 [704, 96],
-					[768, 416],
-					 [1152, 448],
-					  [1152, 64]
+            [256, 480], // Ponto 1: x=100, y=200
+			 [64, 516], // Ponto 2: x=350, y=450
+			  [480, 576],
+				 [576, 320],
+					[800, 480],
+					 [1184, 576],
+					  [1120, 320]
 					 // Ponto 3: x=600, y=150
             // Adicione mais pontos aqui conforme necessário!
         ];
