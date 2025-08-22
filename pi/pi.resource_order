@@ -28,6 +28,7 @@
     {"name":"obj_ponto_plantio","order":7,"path":"objects/obj_ponto_plantio/obj_ponto_plantio.yy",},
     {"name":"obj_purificador","order":2,"path":"objects/obj_purificador/obj_purificador.yy",},
     {"name":"Object2","order":5,"path":"objects/Object2/Object2.yy",},
+    {"name":"spr_background","order":3,"path":"sprites/spr_background/spr_background.yy",},
     {"name":"spr_bau_mudas","order":6,"path":"sprites/spr_bau_mudas/spr_bau_mudas.yy",},
     {"name":"spr_botao_on","order":5,"path":"sprites/spr_botao_on/spr_botao_on.yy",},
     {"name":"spr_chamine_ativada","order":3,"path":"sprites/spr_chamine_ativada/spr_chamine_ativada.yy",},
@@ -36,6 +37,8 @@
     {"name":"spr_purificador","order":1,"path":"sprites/spr_purificador/spr_purificador.yy",},
     {"name":"spr_tilechao","order":1,"path":"sprites/spr_tilechao/spr_tilechao.yy",},
     {"name":"Sprite19","order":4,"path":"sprites/Sprite19/Sprite19.yy",},
+    {"name":"TileSet7","order":2,"path":"tilesets/TileSet7/TileSet7.yy",},
+    {"name":"tl_background","order":2,"path":"tilesets/tl_background/tl_background.yy",},
     {"name":"tl_chao","order":1,"path":"tilesets/tl_chao/tl_chao.yy",},
   ],
 }
