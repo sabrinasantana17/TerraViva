@@ -1,4 +1,4 @@
-if(ecopontuacao < 10){
+if(ecopontuacao < 100){
 
 e_s = true;
 

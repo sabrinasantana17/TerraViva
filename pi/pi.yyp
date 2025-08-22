@@ -48,6 +48,7 @@
   "name":"pi",
   "resources":[
     {"id":{"name":"fnt_jogo","path":"fonts/fnt_jogo/fnt_jogo.yy",},},
+    {"id":{"name":"obj_agua","path":"objects/obj_agua/obj_agua.yy",},},
     {"id":{"name":"obj_aviso_tela","path":"objects/obj_aviso_tela/obj_aviso_tela.yy",},},
     {"id":{"name":"obj_bau_mudas","path":"objects/obj_bau_mudas/obj_bau_mudas.yy",},},
     {"id":{"name":"obj_botao_on","path":"objects/obj_botao_on/obj_botao_on.yy",},},
@@ -67,6 +68,7 @@
     {"id":{"name":"Fase_4","path":"rooms/Fase_4/Fase_4.yy",},},
     {"id":{"name":"Fase2","path":"rooms/Fase2/Fase2.yy",},},
     {"id":{"name":"state_machine","path":"scripts/state_machine/state_machine.yy",},},
+    {"id":{"name":"agua","path":"sprites/agua/agua.yy",},},
     {"id":{"name":"colisor","path":"sprites/colisor/colisor.yy",},},
     {"id":{"name":"spr_bau_mudas","path":"sprites/spr_bau_mudas/spr_bau_mudas.yy",},},
     {"id":{"name":"spr_botao_on","path":"sprites/spr_botao_on/spr_botao_on.yy",},},
