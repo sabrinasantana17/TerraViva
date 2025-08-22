@@ -16,6 +16,7 @@
     {"$GMFolder":"","%Name":"Cenas","folderPath":"folders/Fase 2 - Ellis/Cenas.yy","name":"Cenas","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Conjunto de tiles","folderPath":"folders/Fase 2 - Ellis/Conjunto de tiles.yy","name":"Conjunto de tiles","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Fontes","folderPath":"folders/Fase 2 - Ellis/Fontes.yy","name":"Fontes","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Fonts","folderPath":"folders/Fase 2 - Ellis/Fonts.yy","name":"Fonts","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Objetos","folderPath":"folders/Fase 2 - Ellis/Objetos.yy","name":"Objetos","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Sprites","folderPath":"folders/Fase 2 - Ellis/Sprites.yy","name":"Sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Itens coletados","folderPath":"folders/Fase 2 - Ellis/Sprites/Itens coletados.yy","name":"Itens coletados","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -46,6 +47,7 @@
   },
   "name":"pi",
   "resources":[
+    {"id":{"name":"fnt_jogo","path":"fonts/fnt_jogo/fnt_jogo.yy",},},
     {"id":{"name":"obj_aviso_tela","path":"objects/obj_aviso_tela/obj_aviso_tela.yy",},},
     {"id":{"name":"obj_bau_mudas","path":"objects/obj_bau_mudas/obj_bau_mudas.yy",},},
     {"id":{"name":"obj_botao_on","path":"objects/obj_botao_on/obj_botao_on.yy",},},
