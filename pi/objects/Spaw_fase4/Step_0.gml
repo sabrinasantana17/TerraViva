@@ -1,5 +1,5 @@
 
-if(e_s && ecopontuacao < 10){
+if(e_s && ecopontuacao < 100){
 
 instance_create_layer (random_range(32, 608), random_range(32, 608), "instances", ObjFogoBonito);
 
