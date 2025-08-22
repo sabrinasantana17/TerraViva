@@ -36,8 +36,6 @@
     {"name":"spr_purificador","order":1,"path":"sprites/spr_purificador/spr_purificador.yy",},
     {"name":"spr_tilechao","order":1,"path":"sprites/spr_tilechao/spr_tilechao.yy",},
     {"name":"Sprite19","order":4,"path":"sprites/Sprite19/Sprite19.yy",},
-    {"name":"Sprite24","order":1,"path":"sprites/Sprite24/Sprite24.yy",},
-    {"name":"TileSet5","order":1,"path":"tilesets/TileSet5/TileSet5.yy",},
     {"name":"tl_chao","order":1,"path":"tilesets/tl_chao/tl_chao.yy",},
   ],
 }
