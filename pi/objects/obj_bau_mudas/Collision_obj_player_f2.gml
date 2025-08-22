@@ -23,3 +23,4 @@ else if (mensagem_exibida && !mudas_liberadas)
     // --- FIM DA MUDANÇA ---
 	
 }
+
