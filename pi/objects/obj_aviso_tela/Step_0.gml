@@ -42,8 +42,8 @@ if (mouse_check_button_pressed(mb_left) || keyboard_check_pressed(vk_space))
             var _muda = instance_create_layer(_x, _y, "Instances", obj_muda_arvore);
             
             // ***** AJUSTE O TAMANHO E A ORIENTAÇÃO AQUI *****
-            _muda.image_xscale = 1; // Reduz para 50% da largura original do sprite
-            _muda.image_yscale = 1; // Reduz para 50% da altura original do sprite
+            _muda.image_xscale = 3; // Reduz para 50% da largura original do sprite
+            _muda.image_yscale = 3; // Reduz para 50% da altura original do sprite
             
             _muda.image_angle = 0; // Gira o sprite para a posição correta (0 graus)
                                    // Use 180 para virar para baixo, 90 para a direita, etc.
