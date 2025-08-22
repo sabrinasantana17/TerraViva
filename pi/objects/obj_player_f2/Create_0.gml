@@ -87,13 +87,14 @@ down = noone;
 left = noone;
 right = noone;
 
+
 //Variáveis de movimento
 //iniciando parado
 velh = 0;
 velv = 0;
 
 //Velocidade do jogador
-vel = 6;
+vel = 3;
 
 //controlando a direção que o player esta olhando
 dir = 0;
