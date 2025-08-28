@@ -77,6 +77,7 @@
     {"id":{"name":"spr_botao_on","path":"sprites/spr_botao_on/spr_botao_on.yy",},},
     {"id":{"name":"spr_chamine_ativada","path":"sprites/spr_chamine_ativada/spr_chamine_ativada.yy",},},
     {"id":{"name":"spr_chao_sombrio","path":"sprites/spr_chao_sombrio/spr_chao_sombrio.yy",},},
+    {"id":{"name":"spr_detalhes","path":"sprites/spr_detalhes/spr_detalhes.yy",},},
     {"id":{"name":"spr_enfeites","path":"sprites/spr_enfeites/spr_enfeites.yy",},},
     {"id":{"name":"spr_filtro_de_ar","path":"sprites/spr_filtro_de_ar/spr_filtro_de_ar.yy",},},
     {"id":{"name":"spr_muda_plantada","path":"sprites/spr_muda_plantada/spr_muda_plantada.yy",},},
