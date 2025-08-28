@@ -1,14 +1,14 @@
 {
   "$GMTileSet":"v1",
-  "%Name":"tl_tilezinho",
+  "%Name":"tl_enfeites",
   "autoTileSets":[],
   "macroPageTiles":{
     "SerialiseHeight":0,
     "SerialiseWidth":0,
     "TileSerialiseData":[],
   },
-  "name":"tl_tilezinho",
-  "out_columns":11,
+  "name":"tl_enfeites",
+  "out_columns":52,
   "out_tilehborder":2,
   "out_tilevborder":2,
   "parent":{
@@ -17,7 +17,10 @@
   },
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_enfeites",
+    "path":"sprites/spr_enfeites/spr_enfeites.yy",
+  },
   "spriteNoExport":false,
   "textureGroupId":{
     "name":"Default",
@@ -31,5 +34,5 @@
   "tileWidth":16,
   "tilexoff":0,
   "tileyoff":0,
-  "tile_count":132,
+  "tile_count":2700,
 }
