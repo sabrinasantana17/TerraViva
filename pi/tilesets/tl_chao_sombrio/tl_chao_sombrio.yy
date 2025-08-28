@@ -1,23 +1,26 @@
 {
   "$GMTileSet":"v1",
-  "%Name":"TileSet7",
+  "%Name":"tl_chao_sombrio",
   "autoTileSets":[],
   "macroPageTiles":{
     "SerialiseHeight":0,
     "SerialiseWidth":0,
     "TileSerialiseData":[],
   },
-  "name":"TileSet7",
-  "out_columns":0,
+  "name":"tl_chao_sombrio",
+  "out_columns":16,
   "out_tilehborder":2,
   "out_tilevborder":2,
   "parent":{
-    "name":"Tiles",
-    "path":"folders/Fase 2 - Ellis/Sprites/Tiles.yy",
+    "name":"Tiles Sets",
+    "path":"folders/Fase 2 - Ellis/Tiles Sets.yy",
   },
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_chao_sombrio",
+    "path":"sprites/spr_chao_sombrio/spr_chao_sombrio.yy",
+  },
   "spriteNoExport":false,
   "textureGroupId":{
     "name":"Default",
@@ -31,5 +34,5 @@
   "tileWidth":16,
   "tilexoff":0,
   "tileyoff":0,
-  "tile_count":0,
+  "tile_count":256,
 }
