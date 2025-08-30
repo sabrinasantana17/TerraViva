@@ -12,6 +12,14 @@
   "Folders":[
     {"$GMFolder":"","%Name":"Curvas da animação","folderPath":"folders/Curvas da animação.yy","name":"Curvas da animação","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Extensões","folderPath":"folders/Extensões.yy","name":"Extensões","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Fase 1 - Vinicius","folderPath":"folders/Fase 1 - Vinicius.yy","name":"Fase 1 - Vinicius","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Cenas","folderPath":"folders/Fase 1 - Vinicius/Cenas.yy","name":"Cenas","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Conjuntos de tiles","folderPath":"folders/Fase 1 - Vinicius/Conjuntos de tiles.yy","name":"Conjuntos de tiles","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Fontes","folderPath":"folders/Fase 1 - Vinicius/Fontes.yy","name":"Fontes","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Objetos","folderPath":"folders/Fase 1 - Vinicius/Objetos.yy","name":"Objetos","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Particle Systems","folderPath":"folders/Fase 1 - Vinicius/Particle Systems.yy","name":"Particle Systems","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Scripts","folderPath":"folders/Fase 1 - Vinicius/Scripts.yy","name":"Scripts","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Sprites","folderPath":"folders/Fase 1 - Vinicius/Sprites.yy","name":"Sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Fase 2 - Ellis","folderPath":"folders/Fase 2 - Ellis.yy","name":"Fase 2 - Ellis","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Cenas","folderPath":"folders/Fase 2 - Ellis/Cenas.yy","name":"Cenas","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Conjunto de tiles","folderPath":"folders/Fase 2 - Ellis/Conjunto de tiles.yy","name":"Conjunto de tiles","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -37,7 +45,8 @@
     {"$GMFolder":"","%Name":"Idle","folderPath":"folders/Fase 4 - Sabrina/Sprites/Player/Idle.yy","name":"Idle","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"walk","folderPath":"folders/Fase 4 - Sabrina/Sprites/Player/walk.yy","name":"walk","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Tiles","folderPath":"folders/Fase 4 - Sabrina/Sprites/Tiles.yy","name":"Tiles","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"grupo1","folderPath":"folders/grupo1.yy","name":"grupo1","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Sistema_De_Dialogo","folderPath":"folders/Sistema_De_Dialogo.yy","name":"Sistema_De_Dialogo","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Tela_Inicial","folderPath":"folders/Tela_Inicial.yy","name":"Tela_Inicial","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
   "ForcedPrefabProjectReferences":[],
   "IncludedFiles":[],
@@ -56,7 +65,12 @@
     {"id":{"name":"obj_chamine_ativada","path":"objects/obj_chamine_ativada/obj_chamine_ativada.yy",},},
     {"id":{"name":"obj_controle","path":"objects/obj_controle/obj_controle.yy",},},
     {"id":{"name":"obj_filtro_ar","path":"objects/obj_filtro_ar/obj_filtro_ar.yy",},},
+<<<<<<< HEAD
     {"id":{"name":"obj_industria","path":"objects/obj_industria/obj_industria.yy",},},
+=======
+    {"id":{"name":"Obj_lixeira","path":"objects/Obj_lixeira/Obj_lixeira.yy",},},
+    {"id":{"name":"Obj_lixo","path":"objects/Obj_lixo/Obj_lixo.yy",},},
+>>>>>>> 0ae9a53552d83314dd0950affbea9cbdafa5d594
     {"id":{"name":"obj_muda_arvore","path":"objects/obj_muda_arvore/obj_muda_arvore.yy",},},
     {"id":{"name":"obj_player_f2","path":"objects/obj_player_f2/obj_player_f2.yy",},},
     {"id":{"name":"Obj_player","path":"objects/Obj_player/Obj_player.yy",},},
@@ -67,12 +81,18 @@
     {"id":{"name":"ObjFogoBonito","path":"objects/ObjFogoBonito/ObjFogoBonito.yy",},},
     {"id":{"name":"Objfogopp","path":"objects/Objfogopp/Objfogopp.yy",},},
     {"id":{"name":"Spaw_fase4","path":"objects/Spaw_fase4/Spaw_fase4.yy",},},
+    {"id":{"name":"Fase_1","path":"rooms/Fase_1/Fase_1.yy",},},
+    {"id":{"name":"Fase_2","path":"rooms/Fase_2/Fase_2.yy",},},
     {"id":{"name":"Fase_4","path":"rooms/Fase_4/Fase_4.yy",},},
-    {"id":{"name":"Fase2","path":"rooms/Fase2/Fase2.yy",},},
     {"id":{"name":"state_machine","path":"scripts/state_machine/state_machine.yy",},},
     {"id":{"name":"agua","path":"sprites/agua/agua.yy",},},
     {"id":{"name":"colisor","path":"sprites/colisor/colisor.yy",},},
+<<<<<<< HEAD
     {"id":{"name":"spr_","path":"sprites/spr_/spr_.yy",},},
+=======
+    {"id":{"name":"Lixeira","path":"sprites/Lixeira/Lixeira.yy",},},
+    {"id":{"name":"lixo","path":"sprites/lixo/lixo.yy",},},
+>>>>>>> 0ae9a53552d83314dd0950affbea9cbdafa5d594
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},},
     {"id":{"name":"spr_bau_mudas","path":"sprites/spr_bau_mudas/spr_bau_mudas.yy",},},
     {"id":{"name":"spr_botao_on","path":"sprites/spr_botao_on/spr_botao_on.yy",},},
@@ -121,8 +141,14 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
+<<<<<<< HEAD
     {"roomId":{"name":"Fase2","path":"rooms/Fase2/Fase2.yy",},},
     {"roomId":{"name":"Fase_4","path":"rooms/Fase_4/Fase_4.yy",},},
+=======
+    {"roomId":{"name":"Fase_4","path":"rooms/Fase_4/Fase_4.yy",},},
+    {"roomId":{"name":"Fase_2","path":"rooms/Fase_2/Fase_2.yy",},},
+    {"roomId":{"name":"Fase_1","path":"rooms/Fase_1/Fase_1.yy",},},
+>>>>>>> 0ae9a53552d83314dd0950affbea9cbdafa5d594
   ],
   "templateType":"game",
   "TextureGroups":[
