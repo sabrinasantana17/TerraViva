@@ -20,7 +20,7 @@ room_goto_next()
 
 
 // Distância máxima para poder interagir
-var dist_max = 400; // ajuste conforme seu jogo
+var dist_max = 20; // ajuste conforme seu jogo
 
 // Procura a lixeira mais próxima
 var lix = instance_nearest(x, y, obj_agua);

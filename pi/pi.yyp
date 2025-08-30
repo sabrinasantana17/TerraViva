@@ -129,8 +129,8 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Fase2","path":"rooms/Fase2/Fase2.yy",},},
     {"roomId":{"name":"Fase_4","path":"rooms/Fase_4/Fase_4.yy",},},
+    {"roomId":{"name":"Fase2","path":"rooms/Fase2/Fase2.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
