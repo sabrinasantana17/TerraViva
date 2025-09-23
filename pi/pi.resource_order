@@ -27,8 +27,11 @@
     {"name":"Sprites","order":4,"path":"folders/Fase 4 - Sabrina/Sprites.yy",},
     {"name":"Npcs_e_falas","order":6,"path":"folders/Npcs_e_falas.yy",},
     {"name":"Objetos_de_todas_as_fases","order":5,"path":"folders/Objetos_de_todas_as_fases.yy",},
+    {"name":"Fonte","order":1,"path":"folders/Objetos_de_todas_as_fases/Fonte.yy",},
     {"name":"Tela_final","order":7,"path":"folders/Tela_final.yy",},
     {"name":"Tela_iniciais","order":3,"path":"folders/Tela_iniciais.yy",},
+    {"name":"Objeto","order":1,"path":"folders/Tela_iniciais/Objeto.yy",},
+    {"name":"Tela","order":2,"path":"folders/Tela_iniciais/Tela.yy",},
   ],
   "ResourceOrderSettings":[
     {"name":"obj_agua","order":1,"path":"objects/obj_agua/obj_agua.yy",},
