@@ -6,8 +6,8 @@
   "name":"Object2",
   "overriddenProperties":[],
   "parent":{
-    "name":"Fase 4 - Sabrina",
-    "path":"folders/Fase 4 - Sabrina.yy",
+    "name":"Objetos",
+    "path":"folders/Coisas_de_todas_as_fases/Objetos.yy",
   },
   "parentObjectId":null,
   "persistent":false,

@@ -1,6 +1,6 @@
 {
   "$GMFont":"",
-  "%Name":"Font_menu",
+  "%Name":"Font_Jogo",
   "AntiAlias":1,
   "applyKerning":0,
   "ascender":30,
@@ -343,10 +343,10 @@
   "last":0,
   "lineHeight":37,
   "maintainGms1Font":false,
-  "name":"Font_menu",
+  "name":"Font_Jogo",
   "parent":{
-    "name":"Fonte",
-    "path":"folders/Tela_iniciais/Fonte.yy",
+    "name":"Font",
+    "path":"folders/Coisas_de_todas_as_fases/Font.yy",
   },
   "pointRounding":0,
   "ranges":[
