@@ -1,13 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"Object2",
-  "eventList":[],
+  "%Name":"Obj_menu",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"Object2",
+  "name":"Obj_menu",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objetos",
-    "path":"folders/Coisas_de_todas_as_fases/Objetos.yy",
+    "name":"Objeto",
+    "path":"folders/Tela_iniciais/Objeto.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -27,10 +30,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"colisor",
-    "path":"sprites/colisor/colisor.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
-  "visible":false,
+  "visible":true,
 }

@@ -1,25 +1,25 @@
 {
   "$GMTileSet":"v1",
-  "%Name":"tl_chao",
+  "%Name":"tileset12",
   "autoTileSets":[],
   "macroPageTiles":{
     "SerialiseHeight":0,
     "SerialiseWidth":0,
     "TileSerialiseData":[],
   },
-  "name":"tl_chao",
-  "out_columns":29,
+  "name":"tileset12",
+  "out_columns":66,
   "out_tilehborder":2,
   "out_tilevborder":2,
   "parent":{
-    "name":"Tiles Sets",
-    "path":"folders/Fase 2 - Ellis/Tiles Sets.yy",
+    "name":"Tela",
+    "path":"folders/Tela_iniciais/Tela.yy",
   },
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
   "spriteId":{
-    "name":"spr_chao",
-    "path":"sprites/spr_chao/spr_chao.yy",
+    "name":"sprite34",
+    "path":"sprites/sprite34/sprite34.yy",
   },
   "spriteNoExport":false,
   "textureGroupId":{
@@ -34,5 +34,5 @@
   "tileWidth":16,
   "tilexoff":0,
   "tileyoff":0,
-  "tile_count":870,
+  "tile_count":4356,
 }

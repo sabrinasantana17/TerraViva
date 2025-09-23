@@ -22,12 +22,12 @@ if (mouse_check_button_pressed(mb_left) || keyboard_check_pressed(vk_space))
         // (AQUI VOCÊ DEFINE AS COORDENADAS EXATAS DAS MUDAS)
         var pontos_de_plantio = [
             [128, 736], // Ponto 1: x=100, y=200
-			 [96, 480], // Ponto 2: x=350, y=450
+			 [96, 160], // Ponto 2: x=350, y=450
 			  [640, 736],
-				 [1184, 672],
-					[960, 480],
-					 [992, 320],
-					  [352, 352]
+				 [640, 512],
+					[672, 64],
+					 [1184, 160],
+					  [1184, 416]
 					 // Ponto 3: x=600, y=150
             // Adicione mais pontos aqui conforme necessário!
         ];
