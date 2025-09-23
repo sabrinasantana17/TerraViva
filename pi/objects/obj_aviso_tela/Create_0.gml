@@ -1,5 +1,5 @@
 // A mensagem a ser exibida
-texto_aviso = "Parabens! Voce conseguiu purificar o ar deste ambiente. E como premio, para finalizar a fase, restaure a flora com esse premio do bau!";
+texto_aviso = "Parabens! Voce conseguiu purificar o ar deste ambiente. E como premio, para finalizar a fase, restaure a flora com esse premio do bau! Pressione espaco para desbloquear este premio";
 // Posição na tela (ajuste conforme desejar)
 x_pos = camera_get_view_x(view_camera[0]) + camera_get_view_width(view_camera[0]) / 2;
 y_pos = camera_get_view_y(view_camera[0]) + camera_get_view_height(view_camera[0]) / 2;
