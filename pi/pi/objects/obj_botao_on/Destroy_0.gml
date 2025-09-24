@@ -1,0 +1,1 @@
+show_debug_message("obj_botao_on: INSTÂNCIA DESTRUÍDA (ID: " + string(id) + ")");
