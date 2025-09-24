@@ -19,7 +19,7 @@ draw_set_color(c_white);
 draw_rectangle(_x1, _y1, _x2, _y2, true);
 
 // --- Desenha a Mensagem ---
-draw_set_font(fnt_jogo); // Use uma fonte maior e mais estilizada, se disponível
+draw_set_font(fnt_tela); // Use uma fonte maior e mais estilizada, se disponível
 draw_set_color(c_lime); // Cor vibrante para o título/texto principal
 draw_text_ext(x_pos, y_pos, texto_aviso, 30, largura_quadro - 40);
 
