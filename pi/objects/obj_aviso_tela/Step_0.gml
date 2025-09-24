@@ -52,8 +52,9 @@ if (mouse_check_button_pressed(mb_left) || keyboard_check_pressed(vk_space))
     var _tela_final_inst = instance_create_layer(0, 0, "Instances", obj_tela_final);
     with (_tela_final_inst) {
         background_image = spr_final_2; // **Nome do seu sprite de fundo para esta fase**
-        text_message = "Parabens, voce purificou o ar e restaurou a flora."; // Mensagem da fase final
-        next_room = Fase_4; // **Nome da próxima sala**
+        text_message = ""; // Mensagem da fase final
+        instruction_message = "";
+		next_room = Fase_4; // **Nome da próxima sala**
     }
 
     // 5. Destrói o próprio objeto de aviso (a janela) (Seu código original)

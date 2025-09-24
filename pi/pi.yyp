@@ -70,9 +70,9 @@
   "name":"pi",
   "resources":[
     {"id":{"name":"fnt_jogo","path":"fonts/fnt_jogo/fnt_jogo.yy",},},
-    {"id":{"name":"fnt_tela","path":"fonts/fnt_tela/fnt_tela.yy",},},
     {"id":{"name":"Font_Jogo","path":"fonts/Font_Jogo/Font_Jogo.yy",},},
     {"id":{"name":"Font_menu","path":"fonts/Font_menu/Font_menu.yy",},},
+    {"id":{"name":"Font4","path":"fonts/Font4/Font4.yy",},},
     {"id":{"name":"obj_agua","path":"objects/obj_agua/obj_agua.yy",},},
     {"id":{"name":"obj_aviso_tela","path":"objects/obj_aviso_tela/obj_aviso_tela.yy",},},
     {"id":{"name":"obj_bau_mudas","path":"objects/obj_bau_mudas/obj_bau_mudas.yy",},},

@@ -1,6 +1,6 @@
 {
   "$GMFont":"",
-  "%Name":"fnt_tela",
+  "%Name":"Font4",
   "AntiAlias":1,
   "applyKerning":0,
   "ascender":44,
@@ -117,7 +117,7 @@
   "last":0,
   "lineHeight":53,
   "maintainGms1Font":false,
-  "name":"fnt_tela",
+  "name":"Font4",
   "parent":{
     "name":"Fontes",
     "path":"folders/Tela_final/Fontes.yy",
